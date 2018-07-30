@@ -12,6 +12,7 @@ SYNOPSIS:
 phijamm -u [url] -ux1 -src [file] -req [file] -emaillst [file] -passlst[file] -sleep [value] -ux2 -ur -max [value]
 
 -u            The URL of the phishing page 
+
 -ux1          Use proxy to first connect to the phishing page
 -src          HTML Source-Code of the phishing page
 -req          POST Request  file
